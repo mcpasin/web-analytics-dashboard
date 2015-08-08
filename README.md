@@ -9,4 +9,4 @@ The App is composed by twi files:
 
 Data have been downloaded from Google Analytics, though you can also set up an API connection via RGoogleAnalytics package in R.
 
-You can also check out the app at this link: https://mcpasin.shinyapps.io/WebAnalytics-Dashboard/
+You can also check out an explanatory post how I made this app at this link: http://www.analyticsforfun.com/2015/01/google-analytics-dashboards-with-r-shiny.html
